@@ -61,7 +61,7 @@
 }
 
 @media screen and (min-width: 600px) {
-    #mobile-share {
+    .mobile-share {
         visibility: hidden;
         clear: both;
         float: left;
